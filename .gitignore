@@ -1,0 +1,38 @@
+# Python için sanal ortam klasörü
+venv/
+env/
+ENV/
+
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dağıtım paketleri
+dist/
+build/
+*.egg-info/
+
+# IDE dosyaları
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Ortam değişkenleri
+.env
+.env.local
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python logları
+*.log
+
+# Yerel veritabanı dosyaları
+*.db
+*.sqlite3 

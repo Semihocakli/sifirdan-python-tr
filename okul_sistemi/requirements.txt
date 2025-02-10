@@ -1,0 +1,8 @@
+# Temel bağımlılıklar
+sqlite3  # Veritabanı işlemleri için
+datetime  # Tarih ve zaman işlemleri için
+typing   # Tip kontrolü için
+
+# Test bağımlılıkları
+pytest>=7.0.0  # Test framework
+pytest-cov>=4.0.0  # Test coverage raporları için 
